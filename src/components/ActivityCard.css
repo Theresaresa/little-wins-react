@@ -1,0 +1,12 @@
+/* src/components/ActivityCard.css */
+
+
+.card{
+  background: white;
+  padding: 18px;
+  border-radius: 12px;
+  max-width: 520px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.06);
+}
+.card h3 { margin: 0 0 8px 0; }
+.card p { margin: 0; }
